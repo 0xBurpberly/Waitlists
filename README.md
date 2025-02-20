@@ -22,3 +22,8 @@ Early access projects
 - Tokenize the world's domains
 - Raised $25M from Paradigm, Coinbase Ventures
 - https://doma.xyz/
+
+## Perpl
+- Trade on the liquid pricing engine
+- https://perpl.xyz/
+- Join waitlist with email or wallet
